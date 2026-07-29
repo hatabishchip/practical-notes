@@ -1,0 +1,5 @@
+title: Practical Notes
+description: Field notes and checklists on home upkeep, coffee brewing, gardening and everyday money questions.
+theme: minima
+plugins:
+  - jekyll-feed
